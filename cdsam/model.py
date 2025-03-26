@@ -22,5 +22,6 @@ class EFI_SAM(nn.Layer):
     super().__init__()
 
   def forward(x1,x2):
-    return x1 -x2
+    coming soon
+    return 
 
