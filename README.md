@@ -1,6 +1,6 @@
 ## MLCD
 
-The paddle implementation for **CD_MSAM** 
+The paddle implementation for **EFI-SAM** 
 the weights on [AI Studio](https://aistudio.baidu.com/datasetdetail/301155)
 the entire project can achieve [AI Studio](https://aistudio.baidu.com/projectdetail/7245102?sUid=285037&shared=1&ts=1741756831113)
 
