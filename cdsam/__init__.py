@@ -1,1 +1,1 @@
-from .model import CDSam
+from .model import EFISam
