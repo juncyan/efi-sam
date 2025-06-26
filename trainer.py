@@ -6,7 +6,7 @@ import logging
 import argparse
 
 
-from cdsam.model import CDSam
+from cdsam.model import EFISam
 
 
 from core.bcdwork import Work
@@ -65,7 +65,7 @@ def parse_args():
 if __name__ == "__main__":
     print("main")
     args = parse_args()
-    model = CDSam(img_size=args.img_size)
+    model = EFISam(img_size=args.img_size)
     w = Work(model, args)
   
 
