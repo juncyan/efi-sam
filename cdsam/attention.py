@@ -56,7 +56,7 @@ class FCLayer(nn.Layer):
         output = self.act(output)
         return output
 
-class SFAM(nn.Layer):
+class RFFA(nn.Layer):
     def __init__(self, in_features=2, out_features=1):
         super().__init__()
         self.fc = FCLayer(in_features, out_features)
