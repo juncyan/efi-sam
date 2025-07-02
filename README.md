@@ -3,8 +3,6 @@ published in IEEE Journal of Selected Topics in Applied Earth Observations and R
 
 paper link: [10.1109/JSTARS.2025.3584145](https://doi.org/10.1109/JSTARS.2025.3584145)
 
-The model weights can be found at [AI Studio](https://aistudio.baidu.com/datasetdetail/301155).
-
 The paddle implementation for **EFI-SAM** 
 the weights on [AI Studio](https://aistudio.baidu.com/datasetdetail/301155)
 the entire project can achieve [AI Studio](https://aistudio.baidu.com/projectdetail/7245102?sUid=285037&shared=1&ts=1741756831113)
