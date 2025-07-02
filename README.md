@@ -8,6 +8,18 @@ the entire project can achieve [AI Studio](https://aistudio.baidu.com/projectdet
 - Python 3.10
 - paddle 3.0.0
 
+```
+@ARTICLE{11058393,
+  author={Huang, Junqing and Bao, Junqi and Xia, Min and Yuan, Xiaochen},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={SAM-Based Efficient Feature Integration Network for Remote Sensing Change Detection: A Case Study on Macao Sea Reclamation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-13},
+  keywords={Feature extraction;Remote sensing;Land surface;Transformers;Semantics;Data mining;Accuracy;Visualization;Decoding;Computational modeling;Random fourier features;remote sensing change detection;sea reclamation;segment anything model},
+  doi={10.1109/JSTARS.2025.3584145}}
+```
 
 ## Datasets
 ### Macao Land Change Detection (MLCD) Dataset
